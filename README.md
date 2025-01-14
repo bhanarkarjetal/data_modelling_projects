@@ -11,6 +11,11 @@ Here are some of the data modeling projects available in this repository:
    - Data preprocessing techniques such as log transformation, square root transformation, Box-Cox transformation, and polynomial features were applied.
    - Performance evaluation was done using Mean Squared Error (MSE) and R-squared (R2).
 
+### 2. **Stock Price Prediction Model**
+This model predicts a stock's closing price based on various features such as opening price, low, high, adjusted closing price, and trading volume.
+- Data preprocessing techniques were applied, including data transformation, scaling, polynomial feature transformation (degree 2), and regularization methods (Lasso and Ridge).
+- The model performance was evaluated using R-squared (R²) and Mean Squared Error (MSE) to assess the accuracy and generalization of the predictions.
+
 ## Libraries Used
 
 The following libraries are commonly used across my projects:
